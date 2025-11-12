@@ -1,10 +1,12 @@
 **Introduction to the OSI Model**
 
 The OSI (Open Systems Interconnection) Model is a conceptual framework that standardizes network communication functions into seven distinct layers. It helps ensure interoperability between different systems and technologies
+
+
 ![OSI Model Diagram](osi.png)
 
 
-⚙️ Simple Working
+⚙️ **Simple Working**
 
 When you send a message or file:
 
@@ -37,6 +39,7 @@ At the other end, each department unwraps it in reverse order
 
 
 **Tricks**
+Please Do Not Throw Sausage Pizza Away
 
 | P        | D         | N       | T         | S       | P            | A           |
 | -------- | --------- | ------- | --------- | ------- | ------------ | ----------- |
