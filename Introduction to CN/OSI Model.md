@@ -1,6 +1,11 @@
 **Introduction to the OSI Model**
 
-The OSI (Open Systems Interconnection) Model is a conceptual framework that standardizes network communication functions into seven distinct layers. It helps ensure interoperability between different systems and technologies
+The OSI (Open Systems Interconnection) Model is a conceptual framework that standardizes network communication functions into seven distinct layers. It helps ensure interoperability between different systems and technologies.
+
+
+**OSI Model gives a high level design that how we can connect one computer to another computer** 
+**it was more popular in 1980's** 
+**This is a refrence model**
 
 
 ![OSI Model Diagram](osi.png)
@@ -39,7 +44,7 @@ At the other end, each department unwraps it in reverse order
 
 
 **Tricks**
-Please Do Not Throw Sausage Pizza Away
+                       All People Seem To Need Data Processing
 
 | P        | D         | N       | T         | S       | P            | A           |
 | -------- | --------- | ------- | --------- | ------- | ------------ | ----------- |
