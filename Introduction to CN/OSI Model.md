@@ -44,7 +44,7 @@ At the other end, each department unwraps it in reverse order
 
 
 **Tricks**
-Please Do Not Throw Sausage Pizza Away
+                       All People Seem To Need Data Processing
 
 | P        | D         | N       | T         | S       | P            | A           |
 | -------- | --------- | ------- | --------- | ------- | ------------ | ----------- |
